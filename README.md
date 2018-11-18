@@ -7,8 +7,8 @@
 
 ## 演示地址
 
-*   <a href="http://120.78.219.51:9003" target="_blank">PHP版 (ThinkPhP5.1)</a>
-*   <a href="http://120.78.219.51:9002" target="_blank">NodeJS版 (ThinkJs3.2)</a>
+<a href="http://120.78.219.51:9003" target="_blank">PHP版 (ThinkPhP5.1)</a>
+<a href="http://120.78.219.51:9002" target="_blank">NodeJS版 (ThinkJs3.2)</a>
 
 ## 鉴权处理
 
@@ -28,5 +28,5 @@
 ![](http://qiniu.sponges.cn/201811181355_213.png?imageView2/0/w/880/h/680)
 
 * 双token授权
-![](http://qiniu.sponges.cn/201811181404_486.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811181449_7.png?imageView2/0/w/880/h/680)
 
