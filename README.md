@@ -19,14 +19,14 @@
 
 ## 项目截图
 
-![](http://qiniu.sponges.cn/201811181400_380.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811181400_380.png)
 
 * 有相关页面按钮权限时
-![](http://qiniu.sponges.cn/201811181356_229.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811181356_229.png)
 
 * 无按钮权限时显示  （测试账号 test 密码 111111）
-![](http://qiniu.sponges.cn/201811181355_213.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811181355_213.png)
 
 * 双token授权
-![](http://qiniu.sponges.cn/201811181449_7.png?imageView2/0/w/880/h/680)
+![](http://qiniu.sponges.cn/201811181449_7.png)
 
